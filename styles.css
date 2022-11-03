@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Roboto", sans-serif;
   background-color: rgba(241, 244, 222);
-  background-image: linear-gradient(135deg, #930059, #ffbd00);
+  background-image: linear-gradient(135deg, #054A91, #DBEDFF);
 } 
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 p {
   font-size: 1em;
-  color: #ffbd00;
+  color: #054A91;
   text-shadow: 1px 1px rgba(61, 64, 91);
   letter-spacing: .7px;
 }
