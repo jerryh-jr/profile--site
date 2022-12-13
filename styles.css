@@ -9,7 +9,6 @@ h1 {
   font-size: 1.25em;
   margin-bottom: 0;
   text-shadow: 1px 1px 1px #d3d3d3;
-  text-decoration: underline;
 }
 
 p {
@@ -103,7 +102,7 @@ a {
 a:hover,
 a:active {
   color: #ffbd00;
-  line-height 1.2;
+  line-height: 1.2;
 }
 
 @media (min-width: 760px) {
