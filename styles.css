@@ -55,19 +55,12 @@ footer {
 .content-container {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   width: 75%;
   color: rgb(61, 64, 91);
   background-color: #f5e6e8;
   border-radius: 5px;
   box-shadow: 0 0 20px;
-}
-
-
-.inner-container {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
 }
 
 .text-container {
